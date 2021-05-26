@@ -1,5 +1,7 @@
-# Project-Coded-Correspondence
-project proposed by Codecademy for the Python 3 course.
+# Project: Coded Correspondence
+<img width="410" alt="Screen Shot 2021-05-26 at 2 17 26 AM" src="https://user-images.githubusercontent.com/80420919/119606220-8ce72700-bdc8-11eb-873e-d01785cde5fd.png">
+
+Project proposed by Codecademy for the Python 3 course.
 
 "Casual Coded Correspondence: The Project
 In this project, you will be working to code and decode various messages between you and your fictional cryptography enthusiast pen pal Vishal. You and Vishal have been exchanging letters for quite some time now and have started to provide a puzzle in each one of your letters. Here is his most recent letter:
